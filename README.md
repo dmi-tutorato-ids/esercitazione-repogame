@@ -18,9 +18,9 @@ Per poter contribuire alla scrittura del repogame dovrai:
 - creare una *merge request*, ovvero una pull request per richiedere il merge del branch nel master;
 - attendere una review da parte di un revisore;
 - se richiesto, aggiungere eventuali altri *follow-up commit* sul branch per soddisfare le richieste del revisore;
-- soddisfatte le richieste del revisore, la pull request verrà chiusa con un merge. Il nuovo capitolo è ora visibile sul master!
-- chiudere la issue per il capitolo appena scritto (issue risolta)
-- creare una issue per ognuno dei capitoli non ancora scritti ma indicati come successivi, chiedendo così ad altri di continuare la storia
+- soddisfatte le richieste del revisore, la pull request verrà chiusa con un merge. Il nuovo capitolo è ora visibile sul master;
+- chiudere la issue per il capitolo appena scritto (issue risolta);
+- creare una issue per ognuno dei capitoli non ancora scritti ma indicati come successivi, chiedendo così ad altri di continuare la storia.
 
 ***********************
 
