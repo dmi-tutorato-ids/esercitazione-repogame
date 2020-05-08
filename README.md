@@ -6,6 +6,18 @@ I librogame sono libri-gioco nati negli anni ottanta. Invece di essere letti dal
 
 In questo esercizio costruiremo un **repogame**, un librogame scritto collaborativamente utilizzando un repository git. Ogni capitolo sarà costituito da una cartella numerata da 01 a 99, e il contenuto sarà solo un README.md contenente il titolo del capitolo, il testo e i collegamnti ai capitoli successivi. Ogni capitolo può avere uno o più possibili capitoli successivi, o anche nessuno, determinando così la fine dell'avventura dell'eroe con una gloriosa vittoria o una terribile disfatta.
 
+L'obiettivo è quello di sfruttare la scrittura collaborativa di un libro, inevce che di un programma, per imparare i meccanismi fondamentali dello sviluppo con GitHub, ovvero:
+- gestire le issue per individuare i task da svolgere
+- crere un feature branch per soddisfare una issue
+- creare una pull request per far revisionare il codice/testo scritto
+- fare il merge di una pull request, unendo le modifiche al master
+- chiudere il feature branch
+- creare nuove issue
+
+## Aggiungere un nuovo capitolo alla storia
+
+L'esercizio è stato pensato per poter essere svolto usando solo l'editor di testo e gli strumenti di GitHub, non è quindi richiesto effettuare il clone in un repository locale. Ad ogni modo, è possibile farlo. 
+
 I README.md seguono la sintassi markdown. Puoi trovare un'ottima guida [qui](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 Per poter contribuire alla scrittura del repogame dovrai:
@@ -22,7 +34,9 @@ Per poter contribuire alla scrittura del repogame dovrai:
 - chiudere la issue per il capitolo appena scritto (issue risolta);
 - creare una issue per ognuno dei capitoli non ancora scritti ma indicati come successivi, chiedendo così ad altri di continuare la storia.
 
-***********************
+**ATTENZIONE!** Pur essendo un esercizio di scrittura per un'avventura che può coinvolgere scene di azione, qualsiasi forma di volgarità, violenza o discriminazine non sarà tollerata. Siamo qui per imparare e divertirci, o almeno questo è lo scopo :grimacing:. 
+
+## Inizio dell'avventura
 
 La storia che scriveremo narra di un giovane avventuriero nelle terre di Havalance. Come da buona tradizione dei giochi di ruolo cartacei, l'avventuriero si guadagna da vivedere come mercenario, prendendo commissioni per ritrovare cittadini misteriosamente scomparsi, uccidere creature che minacciano i villaggi, o recuperare preziosi manufatti da antichi sotterranei.
 
