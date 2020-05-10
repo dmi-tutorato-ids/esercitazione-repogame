@@ -38,6 +38,6 @@ Per poter contribuire alla scrittura del repogame dovrai:
 
 ## Inizio dell'avventura
 
-La storia che scriveremo narra di un giovane avventuriero nelle terre di Havalance. Come da buona tradizione dei giochi di ruolo cartacei, l'avventuriero si guadagna da vivedere come mercenario, prendendo commissioni per ritrovare cittadini misteriosamente scomparsi, uccidere creature che minacciano i villaggi, o recuperare preziosi manufatti da antichi sotterranei.
+La storia che scriveremo narra di un giovane avventuriero nelle terre di Havalance. Come da buona tradizione dei giochi di ruolo cartacei, l'avventuriero si guadagna da vivere come mercenario, prendendo commissioni per ritrovare cittadini misteriosamente scomparsi, uccidere creature che minacciano i villaggi, o recuperare preziosi manufatti da antichi sotterranei.
 
 Insomma, le solite cose! Per iniziare la tua avventura, vai al capitolo [**01**](/01/README.md).
