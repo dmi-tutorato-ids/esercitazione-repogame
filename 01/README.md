@@ -11,5 +11,5 @@ Forse si è smarrito? Magari qualcuno lo sta cercando disperatamente!
 Potrebbe essere una buona occasione per guadagnarsi una ricompensa facile!
 
 - Se decidi di avvicinarti al piccolo elfo, vai al capitolo [**09**](/09/README.md);
-- Se decidi invece di proseguire per la tua strada, vai al capitolo [**22**](/10/README.md).
+- Se decidi invece di proseguire per la tua strada, vai al capitolo [**22**](/22/README.md).
 
